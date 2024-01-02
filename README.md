@@ -1,8 +1,5 @@
 FullStackForge
 
-Description:
-Welcome to FullStackForge, a comprehensive web development suite that seamlessly integrates three specialized projects – WebCraftX (Frontend), ServerForge (Backend), and DataVault Pro (Database). FullStackForge is designed to provide end-to-end solutions for web application development.
-
 WebCraftX (Frontend):
 WebCraftX is the frontend powerhouse of FullStackForge. Leveraging modern web technologies such as HTML5, CSS3, and JavaScript, it crafts an intuitive and visually appealing user interface. From dynamic content rendering to interactive user interactions, WebCraftX ensures a polished and user-friendly experience for web applications.
 
